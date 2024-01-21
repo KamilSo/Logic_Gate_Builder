@@ -1,0 +1,28 @@
+-- Welcome to logic gate sim -- 
+Here are some important controls:
+
+***
+
+LEFT CLICK + DRAG = Drags gate or draws wire
+LEFT CLICK = To place input,output or intersection
+RIGHT CLICK = To deletes gate or change state of input bulb
+'Q' - To delete a wire,input,output or intersection
+
+***
+
+- To place down a gate simply LEFT CLICK and DRAG one
+
+- To place down a input,output or intersection LEFT CLICK on a wire or either the input or the output bars on the
+  left and right sides of the screen
+
+- To draw a wire LEFT CLICK and DRAG from a logic gate's output, an input bulb or an output bulb
+
+- To delete a gate RIGHT CLICK on the gate you wish to delete
+
+- To delete a wire RIGHT CLICK on it or press 'Q' while hovering over the wire you wish to delete
+
+- To delete an input,output or intersection press 'Q' while hovering over the bulb you wish to delete
+
+- To change the state of an input bulb RIGHT CLICK on the input bulb you wish to turn on/turn off
+
+-------------------------------
